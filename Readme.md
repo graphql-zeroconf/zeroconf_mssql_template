@@ -2,7 +2,7 @@
 
 ### Clone the repository
 ```
-git clone https://github.com/graphql-zeroconf/zeroconf_sqlite_template.git
+git clone https://github.com/graphql-zeroconf/zeroconf_mssql_template.git
 ```
 
 ### Install the packages
